@@ -2,11 +2,13 @@ Data analysis is the process of examining and interpreting data to extract meani
 
 Key steps in data analysis:
 
-Data collection: Gathering relevant data from various sources.   
-Data cleaning: Identifying and correcting errors, inconsistencies, and missing values.   
-Data exploration: Analyzing data to understand its characteristics and relationships.   
-Data modeling: Creating statistical or mathematical models to explain patterns.
-Data interpretation: Drawing conclusions and making informed decisions based on the analysis.   
+1. Data collection: Gathering relevant data from various sources.   
+2. Data cleaning: Identifying and correcting errors, inconsistencies, and missing values.   
+3. Data exploration: Analyzing data to understand its characteristics and relationships.   
+4. Data modeling: Creating statistical or mathematical models to explain patterns.
+5. Data interpretation: Drawing conclusions and making informed decisions based on the analysis.   
+
+
 Data analysis is used across various fields:
 
 Business: Identifying market trends, optimizing operations, and measuring performance.   
